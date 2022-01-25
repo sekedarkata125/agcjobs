@@ -1,8 +1,13 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"Lowongan Kerja Terupdate Bekasi, Karawang, Cikarang, Tanggerang, jakarta, Indonesia",
+  "author":"BeeJobs",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://www.bukajobs.com/",
+  "map-permalink":[
+    "Lowongan",
+    "Loker",
+    "Jobs"
+  ],
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -27,7 +32,7 @@
       ],
       "replace-string":[
         {
-          "target":"https://stackoverflow.com",
+          "target":"https://www.bukajobs.com/",
           "replace":"${nameWeb}"
         }
       ]
